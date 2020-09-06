@@ -1,0 +1,10 @@
+## Interface: 80300
+## Title: |cff20ff20Bagnon|r |cffffffffSBt|r
+## Author: Agnefire
+## RequiredDeps: Bagnon
+## Version: 1.0
+## X-Category: Inventory
+
+main.lua
+config.lua
+SBt.xml

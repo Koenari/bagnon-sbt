@@ -1,0 +1,14 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ http://wowprogramming.com/FrameXML/UI.xsd">
+
+  <Frame name="SBt_InterfaceOptions">
+    <Scripts>
+      <OnLoad>
+        SBt_InterfaceOptions_OnLoad(self)
+      </OnLoad>
+      <OnShow>
+        SBt_InterfaceOptions_OnShow(self)
+      </OnShow>
+    </Scripts>
+  </Frame>
+
+</Ui>
