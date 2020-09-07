@@ -4,6 +4,7 @@ function SBt_InterfaceOptions_Okay(self) -- *
 end
 
 function SBt_InterfaceOptions_Cancel(self) -- *
+    --Cancel Function--
 end
 
 function SBt_InterfaceOptions_OnShow(self)
